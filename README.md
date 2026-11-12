@@ -11,7 +11,7 @@
 * **Global Trading & Logistics:** Connecting Ethiopia to international markets and securing essential raw materials.
 * **Strategic Partnerships:** Collaborating with global stakeholders (ATG, ATEX, PAPSS) to foster a collaborative ecosystem.
 
-## 🏢 Group Structure
+##  Group Structure
 
 | Company | Specialization |
 | :--- | :--- |
